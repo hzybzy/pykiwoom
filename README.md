@@ -7,5 +7,5 @@ python module using kiwoom api for stock
   - 로그인 기능 (Multiple Session 지원 검토 필요)
   - 메시지 중계 기능
   
-# 개발 환현
+# 개발 현황
 - N/A
