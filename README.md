@@ -3,7 +3,11 @@ python module using kiwoom api for stock
 
 키움 증권 Open API를 사용한 python module
 
-# 요구사항 및 개발 현황
+# 요구사항
+  - 로그인 기능
+  - 하이
+  
+# 개발 완료
 - 로그인 기능
 	- [ ] 아이디 패스워드 관리
 - 모의 투자 기능
